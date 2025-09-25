@@ -61,10 +61,11 @@
     </div>
     <!-- Page Header End -->
 
-
     <!-- Service Start -->
     <div class="container-fluid py-5 px-4 px-lg-0">
         <div class="row g-0">
+
+            <!-- Sidebar Experience Banner -->
             <div class="col-lg-3 d-none d-lg-flex">
                 <div class="d-flex align-items-center justify-content-center bg-primary w-100 h-100">
                     <h1 class="display-3 text-white m-0" style="transform: rotate(-90deg)">
@@ -72,128 +73,118 @@
                     </h1>
                 </div>
             </div>
+
+            <!-- Main Content -->
             <div class="col-md-12 col-lg-9">
                 <div class="ms-lg-5 ps-lg-5">
                     <div class="text-center text-lg-start wow fadeInUp" data-wow-delay="0.1s">
-                        <h6 class="text-secondary text-uppercase">
-                            Our Natural Wellness Offerings
-                        </h6>
-                        <h1 class="mb-5">Explore Our Premium Makhana Snack Range</h1>
+                        <h6 class="text-secondary text-uppercase">Our Natural Collection</h6>
+                        <h1 class="mb-5">Explore Premium Products by Cocofern</h1>
                     </div>
 
+                    <!-- Carousel of Services/Products -->
                     <div class="owl-carousel service-carousel position-relative wow fadeInUp" data-wow-delay="0.1s">
-                        <!-- Service 1: Classic Roasted Makhana -->
+
+                        <!-- Product Category 1: Pure Honey -->
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4"
                                 style="width: 75px; height: 75px">
-                                <i class="fa fa-leaf fa-2x text-primary"></i>
+                                <i class="fa fa-seedling fa-2x text-primary"></i>
                             </div>
-                            <h4 class="mb-3">Classic Roasted Makhana</h4>
+                            <h4 class="mb-3">Pure & Natural Honey</h4>
                             <p>
-                                Lightly roasted and salted for the perfect guilt-free snack.
-                                Crisp, clean, and made without any additives or preservatives.
+                                Harvested from trusted beekeepers, our honey is 100% pure, chemical-free, and packed
+                                with natural goodness.
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>High in Protein &
-                                Fiber
+                                <i class="fa fa-check text-success me-2"></i>Rich in Antioxidants
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Ideal for Fasting
-                                & Everyday Snacking
+                                <i class="fa fa-check text-success me-2"></i>Supports Immunity & Digestion
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Gluten-Free &
-                                Roasted, Not Fried
+                                <i class="fa fa-check text-success me-2"></i>No Preservatives Added
                             </p>
                             <a href="#" class="btn bg-white text-primary w-100 mt-2">
-                                Read More<i class="fa fa-arrow-right text-secondary ms-2"></i>
+                                Shop Honey<i class="fa fa-arrow-right text-secondary ms-2"></i>
                             </a>
                         </div>
 
-                        <!-- Service 2: Peri Peri Flavored Makhana -->
+                        <!-- Product Category 2: Traditional Ghee -->
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4"
                                 style="width: 75px; height: 75px">
-                                <i class="fa fa-fire fa-2x text-primary"></i>
+                                <i class="fa fa-burn fa-2x text-primary"></i>
                             </div>
-                            <h4 class="mb-3">Peri Peri Flavored Makhana</h4>
+                            <h4 class="mb-3">Traditional Cow Ghee</h4>
                             <p>
-                                Spicy, tangy, and full of flavor — our Peri Peri makhana is a
-                                bold snack made with natural seasonings and no artificial
-                                flavor enhancers.
+                                Made using age-old methods, our ghee is aromatic, nutrient-rich, and perfect for a
+                                healthy lifestyle.
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Perfect for Spice
-                                Lovers
+                                <i class="fa fa-check text-success me-2"></i>Boosts Immunity & Energy
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>No MSG or
-                                Preservatives
+                                <i class="fa fa-check text-success me-2"></i>Rich Source of Healthy Fats
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Vegan &
-                                Keto-Friendly
+                                <i class="fa fa-check text-success me-2"></i>Ideal for Daily Cooking
                             </p>
                             <a href="#" class="btn bg-white text-primary w-100 mt-2">
-                                Read More<i class="fa fa-arrow-right text-secondary ms-2"></i>
+                                Shop Ghee<i class="fa fa-arrow-right text-secondary ms-2"></i>
                             </a>
                         </div>
 
-                        <!-- Service 3: Mint Masala Makhana -->
+                        <!-- Product Category 3: Eco-Friendly Kitchenware -->
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4"
                                 style="width: 75px; height: 75px">
-                                <i class="fa fa-lemon fa-2x text-primary"></i>
+                                <i class="fa fa-utensils fa-2x text-primary"></i>
                             </div>
-                            <h4 class="mb-3">Mint Masala Makhana</h4>
+                            <h4 class="mb-3">Coconut Shell Kitchenware</h4>
                             <p>
-                                A refreshing twist on traditional snacks with a burst of mint
-                                and zesty masala — great for digestion and flavor balance.
+                                Handcrafted from natural coconut shells, our eco-friendly kitchenware combines
+                                durability with sustainability.
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Helps in
-                                Digestion
+                                <i class="fa fa-check text-success me-2"></i>Reusable & Biodegradable
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Natural Mint &
-                                Spices
+                                <i class="fa fa-check text-success me-2"></i>Unique & Stylish Design
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Light & Airy
-                                Texture
+                                <i class="fa fa-check text-success me-2"></i>Perfect for Modern Kitchens
                             </p>
                             <a href="#" class="btn bg-white text-primary w-100 mt-2">
-                                Read More<i class="fa fa-arrow-right text-secondary ms-2"></i>
+                                Shop Kitchenware<i class="fa fa-arrow-right text-secondary ms-2"></i>
                             </a>
                         </div>
 
-                        <!-- Service 4: Delivery & Quality Guarantee -->
+                        <!-- Product Category 4: Wooden Cutlery -->
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4"
                                 style="width: 75px; height: 75px">
-                                <i class="fa fa-truck fa-2x text-primary"></i>
+                                <i class="fa fa-spoon fa-2x text-primary"></i>
                             </div>
-                            <h4 class="mb-3">Fast Delivery & Quality Assurance</h4>
+                            <h4 class="mb-3">Wooden Spoons & Cutlery</h4>
                             <p>
-                                All our Makhanas are packed fresh, sealed airtight, and
-                                delivered across India with a full quality and freshness
-                                guarantee.
+                                Safe, reusable, and eco-friendly — our wooden spoons, forks, and cutlery sets bring
+                                nature to your dining table.
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Secure, Hygienic
-                                Packaging
+                                <i class="fa fa-check text-success me-2"></i>Crafted from Natural Wood
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>Ships PAN India
+                                <i class="fa fa-check text-success me-2"></i>Durable & Long-Lasting
                             </p>
                             <p class="text-primary fw-medium">
-                                <i class="fa fa-check text-success me-2"></i>COD & Online
-                                Payment Available
+                                <i class="fa fa-check text-success me-2"></i>Perfect for Eco-Conscious Living
                             </p>
                             <a href="#" class="btn bg-white text-primary w-100 mt-2">
-                                Read More<i class="fa fa-arrow-right text-secondary ms-2"></i>
+                                Shop Cutlery<i class="fa fa-arrow-right text-secondary ms-2"></i>
                             </a>
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -208,18 +199,21 @@
                 <h6 class="text-secondary text-uppercase">Testimonial</h6>
                 <h1 class="mb-5">What Our Customers Say</h1>
             </div>
+
             <div class="owl-carousel testimonial-carousel position-relative wow fadeInUp" data-wow-delay="0.1s">
+
                 <!-- Testimonial 1 -->
                 <div class="testimonial-item text-center">
                     <div class="testimonial-text bg-light text-center p-4 mb-4">
                         <p class="mb-0">
-                            I’ve started adding Falhaar’s roasted makhana to my evening
-                            snacks—so light, crunchy, and guilt-free. It’s now a regular in
-                            my pantry!
+                            I purchased Cocofern’s coconut shell kitchenware and wooden spoons.
+                            The quality is excellent and it feels so natural to use eco-friendly products in my daily
+                            life.
+                            Highly satisfied!
                         </p>
                     </div>
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/testimonial-1.jpg"
-                        style="width: 80px; height: 80px" />
+                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/sneha_testimonials.jpg"
+                        style="width: 80px; height: 80px" alt="Customer" />
                     <div class="mb-2">
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
@@ -227,21 +221,21 @@
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
                     </div>
-                    <h5 class="mb-1">Sarah M.</h5>
-                    <p class="m-0">Verified Buyer</p>
+                    <h5 class="mb-1">Sneha Sharma</h5>
+                    <p class="m-0">Eco-conscious Buyer</p>
                 </div>
 
                 <!-- Testimonial 2 -->
                 <div class="testimonial-item text-center">
                     <div class="testimonial-text bg-light text-center p-4 mb-4">
                         <p class="mb-0">
-                            The Peri Peri Makhana is my new addiction! Just the right amount
-                            of spice, and I don’t feel guilty at all after finishing a whole
-                            pack.
+                            Cocofern’s honey and ghee are 100% pure and organic.
+                            The taste and aroma are authentic, just like homemade.
+                            I trust their products for my family’s health.
                         </p>
                     </div>
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/testimonial-2.jpg"
-                        style="width: 80px; height: 80px" />
+                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/amit_testimonials.jpg"
+                        style="width: 80px; height: 80px" alt="Customer" />
                     <div class="mb-2">
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
@@ -249,21 +243,20 @@
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
                     </div>
-                    <h5 class="mb-1">Jason K.</h5>
-                    <p class="m-0">Sneaker Enthusiast</p>
+                    <h5 class="mb-1">Amit Mehta</h5>
+                    <p class="m-0">Health Enthusiast</p>
                 </div>
 
                 <!-- Testimonial 3 -->
                 <div class="testimonial-item text-center">
                     <div class="testimonial-text bg-light text-center p-4 mb-4">
                         <p class="mb-0">
-                            As a fitness trainer, I recommend Falhaar’s plain roasted
-                            makhana to my clients. It’s high in protein, low in calories,
-                            and totally clean.
+                            I loved the coconut shell bowls I ordered. They look beautiful and
+                            are perfect for serving desserts and snacks. A great eco-friendly alternative!
                         </p>
                     </div>
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/testimonial-3.jpg"
-                        style="width: 80px; height: 80px" />
+                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/ravi_testimonials.jpg"
+                        style="width: 80px; height: 80px" alt="Customer" />
                     <div class="mb-2">
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
@@ -271,21 +264,20 @@
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
                     </div>
-                    <h5 class="mb-1">Leah R.</h5>
-                    <p class="m-0">Fitness Trainer</p>
+                    <h5 class="mb-1">Ravi Kapoor</h5>
+                    <p class="m-0">Verified Buyer</p>
                 </div>
 
                 <!-- Testimonial 4 -->
                 <div class="testimonial-item text-center">
                     <div class="testimonial-text bg-light text-center p-4 mb-4">
                         <p class="mb-0">
-                            The Mint Masala flavor is so refreshing! I love having it with
-                            my afternoon tea—adds the perfect crunch and flavor without
-                            being heavy.
+                            The wooden cutlery from Cocofern is sturdy and reusable.
+                            I’ve switched completely from plastic to their eco-friendly products. Highly recommend!
                         </p>
                     </div>
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/testimonial-4.jpg"
-                        style="width: 80px; height: 80px" />
+                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/neha_testimonials.jpg"
+                        style="width: 80px; height: 80px" alt="Customer" />
                     <div class="mb-2">
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
@@ -293,36 +285,14 @@
                         <small class="fa fa-star text-secondary"></small>
                         <small class="fa fa-star text-secondary"></small>
                     </div>
-                    <h5 class="mb-1">Amélie.</h5>
-                    <p class="m-0">Runner & Shoe Collector</p>
+                    <h5 class="mb-1">Neha Singh</h5>
+                    <p class="m-0">Restaurant Owner</p>
                 </div>
 
-                <!-- Testimonial 5 -->
-                <div class="testimonial-item text-center">
-                    <div class="testimonial-text bg-light text-center p-4 mb-4">
-                        <p class="mb-0">
-                            I ordered a combo pack of Falhaar’s flavored makhanas—each one
-                            better than the last! Delivery was quick and the packaging was
-                            so neat.
-                        </p>
-                    </div>
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/testimonials_1.webp"
-                        style="width: 80px; height: 80px" />
-                    <div class="mb-2">
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                    </div>
-                    <h5 class="mb-1">Emily S.</h5>
-                    <p class="m-0">Lifestyle Blogger</p>
-                </div>
             </div>
         </div>
     </div>
     <!-- Testimonial End -->
-
 
     <!-- Footer -->
     <?php include('footer.php') ?>

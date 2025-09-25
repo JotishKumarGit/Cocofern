@@ -61,99 +61,60 @@
     </div>
     <!-- Page Header End -->
 
-
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="overflow-hidden">
-                        <img class="img-fluid w-100" height="500px" src="img/makhana_pro_1.jpg" alt="" />
-                    </div>
-                    <div class="d-flex align-items-center justify-content-between bg-light p-4">
-                        <h5 class="text-truncate me-3 mb-0">Classic Roasted Makhana</h5>
-                        <a class="btn btn-square btn-outline-primary border-2 border-white flex-shrink-0" href=""><i
-                                class="fa fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="overflow-hidden">
-                        <img class="img-fluid w-100 h-100" src="img/makhana_pro_2.webp" alt="" />
-                    </div>
-                    <div class="d-flex align-items-center justify-content-between bg-light p-4">
-                        <h5 class="text-truncate me-3 mb-0">
-                            Peri Peri Flavored Makhana
-                        </h5>
-                        <a class="btn btn-square btn-outline-primary border-2 border-white flex-shrink-0" href=""><i
-                                class="fa fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="overflow-hidden">
-                        <img class="img-fluid w-100 h-100" src="img/makhana_pro_3.jpg" alt="" />
-                    </div>
-                    <div class="d-flex align-items-center justify-content-between bg-light p-4">
-                        <h5 class="text-truncate me-3 mb-0">Mint Masala Makhana</h5>
-                        <a class="btn btn-square btn-outline-primary border-2 border-white flex-shrink-0" href=""><i
-                                class="fa fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Service End -->
-
-
     <!-- About Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
+
+                <!-- Left Column: Text Content -->
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase">About Us</h6>
                     <h1 class="mb-4">
-                        Falhaar – Wholesome Makhana for a Healthier You
+                        Cocofern – Nature’s Goodness, Packed with Care
                     </h1>
                     <p class="mb-4">
-                        At Falhaar, we are committed to redefining snacking with our range
-                        of premium roasted Makhana (fox nuts). Grown in the rich aquatic
-                        farms of India and processed with care, our Makhanas are a natural
-                        source of protein, fiber, and antioxidants. Whether you're
-                        fasting, following a fitness routine, or simply craving something
-                        crunchy and healthy — Falhaar delivers purity, taste, and
-                        nutrition in every bite.
+                        At Cocofern, we are dedicated to delivering premium organic and eco-friendly products
+                        that bring health and sustainability to your lifestyle. From pure <strong>Ghee</strong>
+                        and natural <strong>Honey</strong> to handcrafted <strong>coconut shell kitchenware</strong>,
+                        wooden cutlery, and other sustainable essentials — every product is carefully chosen to
+                        ensure purity, quality, and eco-conscious living.
                     </p>
                     <p class="fw-medium text-primary">
-                        <i class="fa fa-check text-success me-3"></i>100% Natural &
-                        Gluten-Free Snacks
+                        <i class="fa fa-check text-success me-3"></i>Pure & Natural Honey, Rich in Nutrients
                     </p>
                     <p class="fw-medium text-primary">
-                        <i class="fa fa-check text-success me-3"></i>Perfect for Fasting,
-                        Fitness & Guilt-Free Snacking
+                        <i class="fa fa-check text-success me-3"></i>Traditional Cow Ghee for Health & Wellness
                     </p>
                     <p class="fw-medium text-primary">
-                        <i class="fa fa-check text-success me-3"></i>Roasted, Not Fried –
-                        No Additives or Preservatives
+                        <i class="fa fa-check text-success me-3"></i>Eco-Friendly Kitchenware & Wooden Cutlery
                     </p>
+                    <p class="fw-medium text-primary">
+                        <i class="fa fa-check text-success me-3"></i>Committed to Organic & Sustainable Living
+                    </p>
+
+                    <!-- Contact Box -->
                     <div class="bg-primary d-flex align-items-center p-4 mt-5">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
-                            style="width: 60px; height: 60px">
+                            style="width: 60px; height: 60px;">
                             <i class="fa fa-phone-alt fa-2x text-primary"></i>
                         </div>
                         <div class="ms-3">
                             <p class="fs-5 fw-medium mb-2 text-white">Customer Support</p>
-                            <h3 class="m-0 text-secondary">+91 8467917533</h3>
+                            <h3 class="m-0 text-secondary">+91 7010431898</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 pt-4" style="min-height: 500px">
+
+                <!-- Right Column: Images -->
+                <div class="col-lg-6 pt-4" style="min-height: 500px;">
                     <div class="position-relative h-100 wow fadeInUp" data-wow-delay="0.5s">
-                        <img class="position-absolute img-fluid w-100 h-100" src="img/baner_makhana.jpg"
-                            style="object-fit: cover; padding: 0 0 50px 100px" alt="Falhaar Makhana Banner" />
-                        <img class="position-absolute start-0 bottom-0 img-fluid bg-white pt-2 pe-2 w-50 h-50"
-                            src="img/makhana_baner_2.webp" style="object-fit: contain"
-                            alt="Premium Roasted Makhana Closeup" />
+                        <img class="position-absolute img-fluid w-100 h-100" src="img/Coconut-shell-kitchen-made.jpeg"
+                            style="object-fit: cover; padding: 0 0 50px 100px;" alt="Cocofern Organic Products" />
+                        <!-- <img class="position-absolute start-0 bottom-0 img-fluid bg-white pt-2 pe-2 w-50 h-50"
+            src="img/Ghee.jpg" style="object-fit: contain;" alt="Cocofern Ghee & Honey" /> -->
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
@@ -165,13 +126,13 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                     <i class="fa fa-check fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">12</h2>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">10</h2>
                     <p class="text-white mb-0">Years Experience</p>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                     <i class="fa fa-users-cog fa-2x text-white mb-3"></i>
                     <h2 class="text-white mb-2" data-toggle="counter-up">34</h2>
-                    <p class="text-white mb-0">Pure Makhana</p>
+                    <p class="text-white mb-0">Running Projects</p>
                 </div>
                 <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                     <i class="fa fa-users fa-2x text-white mb-3"></i>
